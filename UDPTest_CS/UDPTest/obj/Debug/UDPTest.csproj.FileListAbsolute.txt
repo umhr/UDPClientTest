@@ -1,0 +1,12 @@
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Debug\UDPTest.exe.config
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Debug\UDPTest.exe
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Debug\UDPTest.pdb
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.Form1.resources
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.Properties.Resources.resources
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.csproj.GenerateResource.Cache
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.exe
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.pdb
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Debug\UDPTest.csprojResolveAssemblyReference.cache
+C:\Users\mbp7\Documents\GitHub\UDPClientTest\UDPTest_CS\UDPTest\bin\Debug\UDPTest.exe.config
+C:\Users\mbp7\Documents\GitHub\UDPClientTest\UDPTest_CS\UDPTest\obj\Debug\UDPTest.exe
+C:\Users\mbp7\Documents\GitHub\UDPClientTest\UDPTest_CS\UDPTest\obj\Debug\UDPTest.pdb

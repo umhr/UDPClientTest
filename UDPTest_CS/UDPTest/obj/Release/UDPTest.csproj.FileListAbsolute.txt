@@ -1,0 +1,9 @@
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Release\UDPTest.exe.config
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Release\UDPTest.exe
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\bin\Release\UDPTest.pdb
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.Form1.resources
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.Properties.Resources.resources
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.csproj.GenerateResource.Cache
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.exe
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.pdb
+C:\Users\mbp7\SkyDrive\studies\1304\UDPTest\UDPTest\obj\Release\UDPTest.csprojResolveAssemblyReference.cache
